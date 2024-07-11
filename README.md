@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <!-- by https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=hgsgtk&count_private=true&show_icons=true" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgsgtk&layout=compact" width="365"/>
-
+I'm currently working on Autify as a senior site reliability engineer.
